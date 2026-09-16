@@ -1,0 +1,23 @@
+config/checkstyle-suppressions.xml
+  s_3d9bbfd7b8519e::t_04daddf0fc0232 1-29
+config/checkstyle.xml
+  s_3d9bbfd7b8519e::t_2dbf26b38862c7 27-33,35-36,40-47
+pom.xml
+  s_3d9bbfd7b8519e::t_130d7394f7e79b 114-119,132,212-214
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "a2fd3c8d403e53839aecb2df26f6f92cd35b23c7",
+  "prompts": {},
+  "sessions": {
+    "s_3d9bbfd7b8519e": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "56713074-cac4-4411-b930-44405690d84c",
+        "model": "anthropic.claude-opus-5"
+      },
+      "human_author": "mThanuj <mullagurithanuj0@gmail.com>"
+    }
+  }
+}
